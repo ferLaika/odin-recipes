@@ -1,4 +1,15 @@
-img {
-    width: 300px;
-    height: auto;
+ul, a {
+    color: royalblue;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
 }
+
+h6 {
+    background-color: yellow;
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*adding some color and formatting using CSS!*/

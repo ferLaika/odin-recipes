@@ -1,15 +1,70 @@
 ul, a {
-    color: royalblue;
-    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
 }
 
 h6 {
-    background-color: yellow;
-
+    color: black;
+    font-size: 20px;
 }
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #e1b382;
+    padding: 30px;
+    margin: 10px;
+    color: whitesmoke;
+}
+
+.image {
+    padding: 30px;
+    background-color: #12343b;
+    
+    margin: 10px;
+    text-align: center;
+    
+}
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #12343b;
+    padding: 30px;
+    margin: 0px;
+    color: whitesmoke;
+}
+
+.list-container {
+    text-align: center;
+    background-color: #2d545e;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+ul.list {
+    display: inline-block;
+    text-align: left;
+}
+
+.paragraph {
+    background-color: #c89666;
+    font-size: 25px;;
+    color: whitesmoke;
+    padding: 30px;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box {
+    text-align: center;
+    background-color: #2d545e;
+    padding: 30px;
+    margin-bottom: 10px;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+
 }
 
 /*adding some color and formatting using CSS!*/

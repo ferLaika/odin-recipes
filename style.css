@@ -26,7 +26,7 @@ h1 {
     text-align: center;
     
 }
-h5 {
+h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     background-color: #12343b;
@@ -54,6 +54,7 @@ ul.list {
     padding: 30px;
     margin-bottom: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 .box {
@@ -63,7 +64,7 @@ ul.list {
     margin-bottom: 10px;
     color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
+    font-size: 25px;
 
 }
 

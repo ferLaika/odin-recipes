@@ -65,7 +65,10 @@ ul.list {
     color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
+}
 
+a {
+    font-size: 25px;
 }
 
 /*adding some color and formatting using CSS!*/
